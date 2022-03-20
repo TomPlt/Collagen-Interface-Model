@@ -46,8 +46,8 @@ def pyramid_outside(a, r, array):
         array (np.array): array which is evaluated 
     
     return:
-        triangle(list): list of cell density values which are not within 
-        the initial spheroid and within a triangle"""
+        pyramid(list): list of cell density values which are not within 
+        the initial spheroid and within a pyramid"""
         
     '''
     
