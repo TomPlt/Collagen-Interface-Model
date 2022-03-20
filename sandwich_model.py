@@ -1,23 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 21 09:10:19 2021
 
-@author: tompa
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec  9 14:46:07 2020
-
-@author: tompa
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec  3 09:33:47 2020
-
-@author: tompa
-"""
 import matplotlib
 from matplotlib import pyplot as plt 
 import numpy as np 
